@@ -13,11 +13,10 @@ h2{
 	
 }
 body{
-	background-image: url(fondo.jpg);
+	background-color: yellow;
 	background-attachment: fixed;
 	background-size: 100% auto;
-	overflow: scroll;
-	color:black;
+	color:white;
 }
 	
 	
