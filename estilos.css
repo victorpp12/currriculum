@@ -16,4 +16,6 @@ body{
 	background-image: url(fondo.jpg);
 	background-attachment: fixed;
 	overflow: scroll;
+	background-size: 100% auto;
+	color:white;
 	
