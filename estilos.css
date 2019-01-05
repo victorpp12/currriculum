@@ -12,3 +12,8 @@ h2{
 	background-color: green;
 	
 }
+body{
+	background-image: url(fondo.jpg);
+	background-attachment: fixed;
+	overflow: scroll;
+	
