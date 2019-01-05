@@ -1,5 +1,8 @@
 h1 {
-backgroundcolor: red;
-  color:blue;
-  text-decoration: underline;
+text-align: center;
+	color:black;
+	font-size:24pt;
+	font-family:arial,helvetica,sans-serif;
+	border-style: solid;
+	background-color: lightblue;
 }
